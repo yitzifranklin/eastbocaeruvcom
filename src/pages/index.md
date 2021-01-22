@@ -64,20 +64,6 @@ sections:
           We are a 501(c)(3) organization, which means we are fully tax-exempt
           and all donations to our organization are 100% tax-deductible.
         actions: []
-      - title: ''
-        image: images/feature3.png
-        image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
   - section_id: reviews
     type: section_reviews
     background: white
