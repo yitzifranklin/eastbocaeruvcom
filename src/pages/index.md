@@ -64,7 +64,7 @@ sections:
           We are a 501(c)(3) organization, which means we are fully tax-exempt
           and all donations to our organization are 100% tax-deductible.
         actions: []
-      - title: Cool Feature of Your Services
+      - title: ''
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
