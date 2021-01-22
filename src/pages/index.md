@@ -5,8 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: >-
-      https://support.jamfnow.com/s/article/115002369726-Enabling-Single-App-Mode
+    title: Welcome to The East Boca Eruv
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site. 
