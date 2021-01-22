@@ -12,7 +12,7 @@ sections:
       upkeep and maintenance. Annual membership information is on the donate
       page below. Any donation is welcome.
     actions:
-      - label: Learn More
+      - label: Donate Now
         url: /features
         style: primary
   - section_id: features
