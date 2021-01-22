@@ -6,9 +6,11 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Welcome to The East Boca Eruv
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: >
+      With lots of dedication and hard work by our volunteers, the East Boca
+      Eruv is monitored and maintained every week. Please donate today for Eruv
+      upkeep and maintenance. Annual membership information is on the donate
+      page below. Any donation is welcome.
     actions:
       - label: Learn More
         url: /features
