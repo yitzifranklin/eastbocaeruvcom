@@ -18,7 +18,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: The Eruv and Key Locations
+    title: ''
     subtitle: ''
     features:
       - title: The Eruv and Key Locations
