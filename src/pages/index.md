@@ -14,7 +14,7 @@ sections:
       - label: Donate Now
         url: /features
         style: primary
-    image: images/1.jpg
+    image: images/hero.png
   - section_id: features
     type: section_features
     background: gray
