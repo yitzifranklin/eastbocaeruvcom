@@ -64,14 +64,6 @@ sections:
           We are a 501(c)(3) organization, which means we are fully tax-exempt
           and all donations to our organization are 100% tax-deductible.
         actions: []
-  - section_id: Donate Now!
-    type: section_cta
-    title: Donate Now!
-    subtitle: ''
-    actions:
-      - label: Get Started
-        url: /signup
-        style: primary
 meta_title: Stackbit Azimuth Theme
 meta_description: The preview of the Azimuth theme
 template: landing
