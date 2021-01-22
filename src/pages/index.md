@@ -64,7 +64,7 @@ sections:
           We are a 501(c)(3) organization, which means we are fully tax-exempt
           and all donations to our organization are 100% tax-deductible.
         actions: []
-  - section_id: call-to-action
+  - section_id: Donate Now!
     type: section_cta
     title: Donate Now!
     subtitle: ''
