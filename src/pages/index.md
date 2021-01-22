@@ -14,7 +14,7 @@ sections:
       - label: Donate Now
         url: 'https://donorbox.org/eruv'
         style: primary
-    image: images/hero.png
+    image: images/2021-01-22--01-53-08PM.png
   - section_id: features
     type: section_features
     background: gray
