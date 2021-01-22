@@ -21,7 +21,7 @@ sections:
     title: The Eruv and Key Locations
     subtitle: ''
     features:
-      - title: The Best Feature of Your Services
+      - title: The Eruv and Key Locations
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
