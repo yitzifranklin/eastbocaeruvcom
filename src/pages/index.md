@@ -22,7 +22,7 @@ sections:
     subtitle: ''
     features:
       - title: The Eruv and Key Locations
-        image: images/feature1.png
+        image: images/2021-01-22--01-53-08PM.png
         image_alt: App preview on a phone and tablet
         content: >
           The interactive will show you the current borders with complete
