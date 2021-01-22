@@ -24,10 +24,22 @@ sections:
       - title: The Best Feature of Your Services
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          The interactive will show you the current borders with complete
+          details. Listed below are some key locations inside the Eruv, please
+          click on the link to direct you to more information:
+
+
+          [Hyatt Place Boca
+          Raton/Downtown](https://www.hyatt.com/en-US/hotel/florida/hyatt-place-boca-raton-downtown/fllzb)
+
+
+          [Boca Raton Resort and Club, A Waldorf Astoria
+          Resort](https://waldorfastoria3.hilton.com/en/hotels/florida/boca-raton-resort-and-club-a-waldorf-astoria-resort-BCTRCWA/index.html)
+
+
+          [Synagogue\ Prayer Services: Boca Beach
+          Chabad](https://www.chabadbocabeaches.com/)
         actions:
           - label: Learn More
             url: /features
