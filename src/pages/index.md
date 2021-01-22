@@ -12,7 +12,7 @@ sections:
       page below. Any donation is welcome.
     actions:
       - label: Donate Now
-        url: '<a href="https://donorbox.org/eruv">Donate Text or Image HTML</a>'
+        url: 'https://donorbox.org/eruv">Donate Text or Image HTML</a>'
         style: primary
     image: images/hero.png
   - section_id: features
