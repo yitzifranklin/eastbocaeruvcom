@@ -24,7 +24,7 @@ sections:
         label: >-
           I understand that this form is storing my submitted information so I
           can be contacted.
-        is_required: true
+        is_required: false
     submit_label: Send Message
 template: landing
 ---
