@@ -50,10 +50,19 @@ sections:
       - title: Donate now.
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          We are asking community members to kindly donate $180 dollars a year
+          to maintain the Eruv. Please choose the monthly or annual option in
+          the form to set up a recurring donation.
+
+
+          Our highly dedicated team of volunteers check the Eruv every week and
+          make continuous repairs to ensure the Eruv is up. We can only keep the
+          Eruv functional with necessary maintenance.
+
+
+          We are a 501(c)(3) organization, which means we are fully tax-exempt
+          and all donations to our organization are 100% tax-deductible.
         actions:
           - label: Learn More
             url: /features
